@@ -16,10 +16,5 @@ As tecnologias que utilizo no meu dia a dia profissional e acadêmico:
 
 ---
 
-### 📈 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocstsouza&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
-
----
-
 ### 📫 Contato
 - **Email:** eduardocstsouza@gmail.com
