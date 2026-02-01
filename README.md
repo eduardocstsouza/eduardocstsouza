@@ -1,19 +1,26 @@
 # Olá, eu sou o Eduardo! 👋
 
 ### 👨‍💻 Sobre mim
-- 🎓 Estudante de **Ciência da Computação**.
-- 💡 Atualmente sou **Estagiário de Desenvolvimento de Software**, focado em soluções **Back-end** e **Banco de Dados**.
-- 🚀 Apaixonado por inovação e por resolver problemas complexos através da tecnologia.
+Sou estudante de **Ciência da Computação** e atuo como **Estagiário em Desenvolvimento de Software**.
 
-### 🛠 Tecnologias e Ferramentas
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🛠 Tech Stack
+
+As tecnologias que utilizo no meu dia a dia profissional e acadêmico:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+
+---
 
 ### 📈 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocstsouza&layout=compact&theme=vision-friendly-dark)
 
+---
+
 ### 📫 Contato
-- **LinkedIn:** [https://linkedin.com/in/eduardocstsouza]
-- **Email:** [eduardocstsouza@gmail.com]
+- **Email:** eduardocstsouza@gmail.com
