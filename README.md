@@ -1,8 +1,6 @@
 # Olá, eu sou o Eduardo Souza! 👋
 
-<div align="center">
-  
-  **Estagiário de Desenvolvimento de Software | Graduando em Ciência da Computação**
+**Estagiário de Desenvolvimento de Software | Graduando em Ciência da Computação**
   
   <br>
 
