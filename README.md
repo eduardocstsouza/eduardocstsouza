@@ -55,10 +55,8 @@ Meu foco principal é o Desenvolvimento **Back-end**. Gosto de entender como as 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/eduardocstsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardocstsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocstsouza&layout=compact&theme=dracula"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eduardocstsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Eduardo's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocstsouza&layout=compact&theme=dracula" alt="Top Languages"/>
 </div>
 
 <br>
