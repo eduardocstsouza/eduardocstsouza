@@ -54,9 +54,19 @@ Meu foco principal é o Desenvolvimento **Back-end**. Gosto de entender como as 
 
 ## 📊 GitHub Stats
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardocstsouza&show_icons=true&theme=dracula)
+## 🏆 Conquistas & Frequência
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocstsouza&layout=compact&theme=dracula)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eduardocstsouza&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Eduardo's Trophies" />
+  
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=eduardocstsouza&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Eduardo's Streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocstsouza&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
 
 <div align="center">
   <sub>Construindo o futuro, uma linha de código por vez.</sub>
