@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a back-end focused developer currently working as a Software Development Intern, where I contribute to a legacy system migration involving Java, Spring Boot, and Kafka.
+I'm a back-end focused developer currently working as a Software Development Intern.
 
 I enjoy understanding how things work under the hood — from database modeling to APIs running in production. Still learning a lot, but always building something.
 
