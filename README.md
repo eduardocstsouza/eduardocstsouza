@@ -21,8 +21,8 @@ I'm a back-end focused developer currently working as a Software Development Int
 
 I enjoy understanding how things work under the hood — from database modeling to APIs running in production. Still learning a lot, but always building something.
 
-- 🎓 B.Sc. in Computer Science — Uninassau (PROUNI)
-- 💼 Intern at Effetive Sistemas — working on PHP/Java legacy migration
+- 🎓 B. in Computer Science 
+- 💼 Intern at Effetive Sistemas 
 - 🔧 Currently deepening my knowledge in Spring Boot and Docker
 - 🇧🇷 Based in Brazil
 
